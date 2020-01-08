@@ -9,3 +9,4 @@ This model is a 3 layer LSTM network having **tanh** activation function on all 
 ![](https://raw.githubusercontent.com/AbdurNawaz/Chatbot/master/arch.png)
 
 #### Sample of how it works:
+![](https://raw.githubusercontent.com/AbdurNawaz/Chatbot/master/result.png)
